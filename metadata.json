@@ -1,0 +1,5 @@
+{
+  "name": "Gemini TaskBoard",
+  "description": "A project management web application that uses a Kanban-style board to organize tasks. It features AI-powered task description generation using the Gemini API and simulates a Google Sheets backend with local storage for persistence. Includes a simulated login system for user access.",
+  "requestFramePermissions": []
+}
